@@ -15,7 +15,7 @@ git config --global user.email "pihinformatics@gmail.com"
 git config --global user.name "pihinformatics"
 
 git remote remove central || true
-git remote add central git@github.com:PIH/openmrs-frontend-pihemr.git
+git remote add central git@github.com:PIH/openmrs-frontend-zl.git
 git fetch central
 
 ### Clean up
