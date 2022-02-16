@@ -30,9 +30,9 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:git://github.com/PIH/openmrs-frontend-pihemr.git</connection>
-        <developerConnection>scm:git:ssh://github.com:PIH/openmrs-frontend-pihemr.git</developerConnection>
-        <url>https://github.com/PIH/openmrs-frontend-pihemr</url>
+        <connection>scm:git:git://github.com/PIH/openmrs-frontend-zl.git</connection>
+        <developerConnection>scm:git:ssh://github.com:PIH/openmrs-frontend-zl.git</developerConnection>
+        <url>https://github.com/PIH/openmrs-frontend-zl</url>
     </scm>
 
     <distributionManagement>
