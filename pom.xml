@@ -9,6 +9,7 @@
     <version>1.1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>ZL Frontend</name>
+    <url>https://github.com/PIH/openmrs-frontend-zl</url>
     <description>Frontend project for Zanmi Lasante</description>
 
     <organization>
