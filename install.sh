@@ -14,6 +14,6 @@ if [ $# -eq 0 ]; then
 fi
 
 mvn clean compile
-rm -r ~/openmrs/$1/frontend
+rm -r ~/openmrs/$1/frontend || echo No ~/openmrs/$1/frontend directory found
 cp -r target/dist ~/openmrs/$1/frontend
 ln -s ~/openmrs/$1/configuration/frontend ~/openmrs/$1/frontend/site
