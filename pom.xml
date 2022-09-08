@@ -83,7 +83,7 @@
                             <goal>install-node-and-npm</goal>
                         </goals>
                         <configuration>
-                            <nodeVersion>v16.2.0</nodeVersion>
+                            <nodeVersion>v16.16.0</nodeVersion>
 
                         </configuration>
                     </execution>
@@ -93,7 +93,7 @@
                             <goal>npx</goal>
                         </goals>
                         <configuration>
-                            <arguments>openmrs@latest build --build-config spa-build-config.json --target target/dist</arguments>
+                            <arguments>openmrs@3.x build --build-config spa-build-config.json --target target/dist</arguments>
                         </configuration>
                     </execution>
                     <execution>
@@ -102,7 +102,7 @@
                             <goal>npx</goal>
                         </goals>
                         <configuration>
-                            <arguments>openmrs@latest assemble --mode config --config spa-build-config.json --target target/dist</arguments>
+                            <arguments>openmrs@3.x assemble --mode config --config spa-build-config.json --target target/dist</arguments>
                         </configuration>
                     </execution>
                 </executions>
