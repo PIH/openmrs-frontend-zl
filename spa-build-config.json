@@ -1,6 +1,5 @@
 {
   "frontendModules":{
-    "@openmrs/esm-dispensing-app":"next",
     "@pih/esm-refapp-navbar-app":"next",
     "@pih/esm-referrals-queue-app":"next"
   },
