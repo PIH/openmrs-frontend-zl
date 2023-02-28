@@ -30,11 +30,11 @@
     "@openmrs/esm-patient-list-app": "4.0.1",
     "@openmrs/esm-patient-registration-app": "4.0.1",
     "@openmrs/esm-patient-search-app": "4.0.1",
-    "@openmrs/esm-openconceptlab-app": "next",
+    "@openmrs/esm-openconceptlab-app": "3.0.1-pre.21",
     "@openmrs/esm-dispensing-app": "next",
     "@openmrs/esm-fast-data-entry-app": "1.0.1-pre.51",
-    "@openmrs/esm-cohort-builder-app": "next",
-    "@openmrs/esm-form-builder-app": "next"
+    "@openmrs/esm-cohort-builder-app": "3.0.0",
+    "@openmrs/esm-form-builder-app": "1.0.0"
 
 
   },
